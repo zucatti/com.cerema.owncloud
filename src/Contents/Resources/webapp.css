@@ -1,0 +1,103 @@
+.BackgroundSystem
+{
+	background-image:url(webapp/defaultdesktop.png);
+}
+
+.qxAboutLogo
+{
+	background-image:url(startup/logo.png);
+	background-repeat:no-repeat;
+	background-position:center center;	
+	background-size: 128px 128px;
+	width: 128px;
+	height: 128px;	
+}
+
+.qxIcon
+{
+	background-image:url(webapp/ico.png);
+	background-repeat:no-repeat;
+	background-position:center center;	
+	background-size: 16px 16px;
+	width: 16px;
+	height: 16px;	
+}
+
+.mnu_preferences
+{
+	background-image:url(webapp/Preferences.png);
+}
+
+.step
+{
+	font-family: tahoma;
+	font-size: 20px;
+	color: black;
+}
+
+.step0
+{
+	font-family: tahoma;
+	font-size: 20px;
+	color: #AAAAAA;
+}
+
+.winstore
+{
+	background-image:url(webapp/windows.png);
+	background-size:128px 128px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width:128px;
+	height:128px;
+}
+
+.appstore
+{
+	background-image:url(webapp/apple.png);
+	background-size:128px 128px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width:128px;
+	height:128px;
+}
+
+.linuxstore
+{
+	background-image:url(webapp/linux.png);
+	background-size:128px 128px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width:128px;
+	height:128px;
+}
+
+.sappstore
+{
+	background-image:url(webapp/appstore.jpg);
+	background-size:220px 92px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width:220px;
+	height:92px;
+}
+
+.splaystore
+{
+	background-image:url(webapp/playstore.png);
+	background-size:220px 92px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width:220px;
+	height:92px;
+}
+
+.cerema
+{
+	background-image:url(webapp/cerema.png);
+	background-size:472px 250px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width:472px;
+	height:250px;
+}
