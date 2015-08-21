@@ -30,7 +30,7 @@ App.view.define('VMain', {
 					border: false,
 					items: [
 					{
-						html: "<big>L’application <b>CeremaCloud</b> offre un espace synchronisé permettant de partager des documents à l’intérieur tout autant qu'à l’extérieur du Cerema.<br>Il facilite ainsi le travail collaboratif et permet d’accéder aux données depuis différents supports :<li>Le poste de travail professionnel<li>Ordinateur perso<li>Téléphone portable</big>",
+						html: "<big>L’application <b>CeremaCloud</b> offre un espace synchronisé permettant de partager des documents à l’intérieur tout autant qu'à l’extérieur du Cerema.<br>Il facilite ainsi le travail collaboratif et permet d’accéder aux données depuis différents supports :<li>Le poste de travail professionnel<li>Ordinateur personnel<li>Téléphone portable</big>",
 						flex: 1,
 						padding: 10,
 						border: false
